@@ -1,4 +1,4 @@
-const user = []
+const users = []
 
 // Join user to chat
 function userJoin(id, username, room) {
